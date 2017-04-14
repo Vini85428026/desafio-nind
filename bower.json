@@ -1,0 +1,28 @@
+{
+  "name": "ROADSEC",
+  "description": "Projeto roadsec evento",
+  "main": "index.js",
+  "authors": [
+    "Paulo Henrique Gonçalves Alves"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "angular-resource": "^1.5.8",
+    "highcharts": "^4.2.6",
+    "angular-local-storage": "^0.5.2",
+    "angular-loading-bar": "^0.9.0",
+    "ngstorage": "^0.3.11"
+  }
+}
